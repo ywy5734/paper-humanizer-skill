@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Humanizer"
+  short_description: "Natural academic rewriting that preserves claims and citations"
+  default_prompt: "Use $academic-humanizer to rewrite this paper section in a natural academic voice while preserving claims, citations, and terminology."
